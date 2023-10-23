@@ -50,6 +50,3 @@ function App() {
 }
 
 export default App;
-
-
-//! https://www.youtube.com/watch?v=hQAHSlTtcmY Minute 17:13
